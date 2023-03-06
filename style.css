@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+    
+}
+
+div.quadrado {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+
+}
+
+div#q1 {
+    
+  
+    background-color: brown;
+
+}
+
+div#q2 {
+
+}
+
+div#q3 {
+    background-image: url('./imagens/agua.jpg');
+    
+}
